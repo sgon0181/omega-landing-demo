@@ -52,7 +52,7 @@ function Hero({ onContact, tweaks, canvasRef }) {
         <div className="hero__copy" data-screen-label="Hero">
           <h1>
             <span>Democratising</span>
-            <span>High-Performance</span>
+            <span>High Performance</span>
             <span>Computing</span>
           </h1>
           <p className="hero__lede">
