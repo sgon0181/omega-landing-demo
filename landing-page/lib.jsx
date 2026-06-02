@@ -16,7 +16,7 @@ const NAV_ITEMS = [
   { label: "Our Services", href: "#services", id: "services" },
   { label: "About Us", href: "#about", id: "about" },
   { label: "Contact", href: "#contact", id: "contact" },
-  { label: "News", href: "#insights", id: "insights" }
+  { label: "Infrastructure", href: "#insights", id: "insights" }
 ];
 
 const FEATURES = [
