@@ -14,7 +14,7 @@ function Icon({ name, size = 22, strokeWidth = 2 }) {
 
 const NAV_ITEMS = [
   { label: "Our Services", href: "#services", id: "services" },
-  { label: "Meet the Team", href: "#about", id: "about" },
+  { label: "About Us", href: "#about", id: "about" },
   { label: "Contact", href: "#contact", id: "contact" },
   { label: "News", href: "#insights", id: "insights" }
 ];
